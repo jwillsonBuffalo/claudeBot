@@ -1,0 +1,375 @@
+{
+  "weights": {
+    "ema": 5.0,
+    "momentum": 3.499999999999999,
+    "rsi": 4.049999999999999,
+    "volume": 1.4499999999999997,
+    "macd": 5.0,
+    "bbands": 5.0,
+    "stoch_rsi": 2.8999999999999995,
+    "supertrend": 5.0
+  },
+  "records": [
+    {
+      "window_start": 1773531300,
+      "price_at_start": 71124.16897320206,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "UP",
+        "rsi": "DOWN",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "UP",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "UP"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71148.49713
+    },
+    {
+      "window_start": 1773531600,
+      "price_at_start": 71148.49713,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "UP",
+        "rsi": "DOWN",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "UP",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "UP"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71193.28051536522
+    },
+    {
+      "window_start": 1773531900,
+      "price_at_start": 71193.28051536522,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "DOWN",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "UP",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "UP"
+      },
+      "resolved": true,
+      "correct": false,
+      "price_at_close": 71138.59088462067
+    },
+    {
+      "window_start": 1773532200,
+      "price_at_start": 71138.59088462067,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "DOWN",
+        "rsi": "DOWN",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "UP"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71142.617275
+    },
+    {
+      "window_start": 1773532500,
+      "price_at_start": 71142.617275,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "DOWN",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "UP",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "UP"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71233.32125901367
+    },
+    {
+      "window_start": 1773532800,
+      "price_at_start": 71233.32125901367,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "UP",
+        "rsi": "UP",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "UP"
+      },
+      "resolved": true,
+      "correct": false,
+      "price_at_close": 71131.85463165911
+    },
+    {
+      "window_start": 1773533100,
+      "price_at_start": 71131.85463165911,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "UP",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "UP"
+      },
+      "resolved": true,
+      "correct": false,
+      "price_at_close": 71071.76012
+    },
+    {
+      "window_start": 1773533400,
+      "price_at_start": 71071.76012,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "DOWN",
+        "rsi": "NEUTRAL",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71048.4592387111
+    },
+    {
+      "window_start": 1773533700,
+      "price_at_start": 71048.4592387111,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "UP",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71104.93
+    },
+    {
+      "window_start": 1773534000,
+      "price_at_start": 71104.93,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "NEUTRAL",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "NEUTRAL",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71043.2702076552
+    },
+    {
+      "window_start": 1773534300,
+      "price_at_start": 71043.2702076552,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "UP",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71170.13628031366
+    },
+    {
+      "window_start": 1773534600,
+      "price_at_start": 71170.13628031366,
+      "prediction": "UP",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "UP",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "UP",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": false,
+      "price_at_close": 71086.44
+    },
+    {
+      "window_start": 1773534900,
+      "price_at_start": 71086.44,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "DOWN",
+        "rsi": "NEUTRAL",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71033.94525849122
+    },
+    {
+      "window_start": 1773535200,
+      "price_at_start": 71033.94525849122,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "UP",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "NEUTRAL",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": false,
+      "price_at_close": 71072.44026959252
+    },
+    {
+      "window_start": 1773535500,
+      "price_at_start": 71072.44026959252,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "NEUTRAL",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 70986.86945296385
+    },
+    {
+      "window_start": 1773535800,
+      "price_at_start": 70986.86945296385,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "DOWN",
+        "rsi": "NEUTRAL",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": false,
+      "price_at_close": 71005.45241110509
+    },
+    {
+      "window_start": 1773536100,
+      "price_at_start": 71005.45241110509,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "NEUTRAL",
+        "ema_cross": "UP",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": false,
+      "price_at_close": 71018.79205906244
+    },
+    {
+      "window_start": 1773536400,
+      "price_at_start": 71018.79205906244,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "NEUTRAL",
+        "ema_cross": "DOWN",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71010.63806194246
+    },
+    {
+      "window_start": 1773536700,
+      "price_at_start": 71010.63806194246,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "NEUTRAL",
+        "ema_cross": "DOWN",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 71000.73
+    },
+    {
+      "window_start": 1773537000,
+      "price_at_start": 71000.73,
+      "prediction": "DOWN",
+      "signal_directions": {
+        "momentum": "NEUTRAL",
+        "rsi": "NEUTRAL",
+        "ema_cross": "DOWN",
+        "volume": "NORMAL",
+        "macd": "DOWN",
+        "bbands": "DOWN",
+        "stoch_rsi": "NEUTRAL",
+        "supertrend": "DOWN"
+      },
+      "resolved": true,
+      "correct": true,
+      "price_at_close": 70958.49
+    }
+  ],
+  "saved_at": "2026-03-15T01:15:07+00:00"
+}

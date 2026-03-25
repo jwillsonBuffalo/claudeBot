@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \":*)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\A.I User\\Desktop\\polymarket-copy-bot",
+      "C:\\Users\\A.I User\\.claude\\projects\\c--Users-A-I-User-Desktop-polymarket-copy-bot"
+    ]
+  }
+}

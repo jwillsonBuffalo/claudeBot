@@ -1,0 +1,18 @@
+# Core trading SDK
+py-clob-client>=0.18.0
+
+# Web server
+flask>=3.0.0
+
+# HTTP client (with retry support)
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Ethereum account derivation (already a dep of py-clob-client, listed explicitly for clarity)
+eth-account>=0.10.0
+
+# Environment variable loading (optional .env support)
+python-dotenv>=1.0.0
+
+# Polymarket on-chain redemption via Builder API relayer
+poly-web3>=0.1.0

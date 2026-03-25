@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); print\\(json.dumps\\(data[:2], indent=2\\)\\)\")",
+      "Bash(python3 -c \":*)",
+      "Bash(python -c \":*)",
+      "WebFetch(domain:data.chain.link)"
+    ]
+  }
+}
